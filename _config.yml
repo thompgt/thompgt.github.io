@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Pequegnot Github Page"
+title                    : "Thomas Pequegnot"
 title_separator          : "-"
 name                     : &name "Thomas Pequegnot"
 description              : &description "personal description"
