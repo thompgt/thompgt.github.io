@@ -44,7 +44,7 @@ redirect_from:
    - 4 years (Basketball and Soccer)
    - 25 hours per year
    - Helped kids with Special needs learn the fundamentals of sports
-* Karate Instructor
+* Karate Assistant
    - Helped my Sensei conduct training and warm ups
 * EIBL coach (contingent on COVID normalization)
    - Coaching Rec Basketball
