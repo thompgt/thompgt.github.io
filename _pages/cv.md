@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Thomas Pequegnot
-
-# Personal Growth
 
 # Group Participation / Leadership
 * French club
@@ -53,7 +50,8 @@ Thomas Pequegnot
    - Coaching Rec Basketball
    - 2 hours per week/ 10 weeks per year
  
-# Computing skills / courses
+# Personal Growth / Courses
+* Polygence research project
 * Completed NYU Tandon School of Engineering Summer School program for Machine Learning (2 weeks full time). The program covered:
    - Principles of AI and machine learning
    - Hands on programming to solve machine learning problems (Python, scikit-learn, Tensorflow)
@@ -75,9 +73,8 @@ Thomas Pequegnot
    * National Spanish Examination level 2 honor (2019)
    
 ## Athletic awards
+Please refer to my [Athletic Resume]
    * Multiple time scholar athlete
    * 2x all-league cross country (2018, 2019)
    * True grit award 2019
    * Best newcomer award 2018
-
-## Recognitions
