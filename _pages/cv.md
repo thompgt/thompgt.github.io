@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,53 +8,72 @@ redirect_from:
 ---
 
 {% include base_path %}
+Thomas Pequegnot
 
-Awards & Recognition
-======
-* AP courses
+# Personal Growth
+
+# Group Participation / Leadership
+* French club
+   * 3 year member (Trying to get an office position Senior Year)
+   - 15 hours per year
+* Cross Country 
+   * Captain Junior year (And most likely Senior Year)
+   * 4 year member
+   - 800+ hours
+* Winter Track
+   * 4 year member (Could be a captain my Junior and Senior Year)
+   - 300+ hours
+* Spring Track
+   * 4 year member (Could be a captain my Junior and Senior Year)
+   - 300+ hours
+* Habitat for Humanity
+   * Member Sophomore year (and hopefully senior year if it returns)
+* Chess Club
+   * 2 year member (intend to try office position)
+   - 30 hours per year
+* Karate
+   * Black belt
+   - Been doing since I was 5 years old
+* Either an EGO position (student government) or Athletic council position my senior year
+
+# Honor Societies (target)
+* Math
+* Science
+* French
+* National Honor Society
+
+# Community Service
+* Challenger Sports
+   - 4 years (Basketball and Soccer)
+   - 25 hours per year
+   - Helped kids with Special needs learn the fundamentals of sports
+* Karate Instructor
+   - Helped my Sensei conduct training and warm ups
+* EIBL coach (contingent on COVID normalization)
+   - Coaching Rec Basketball
+   - 2 hours per week/ 10 weeks per year
+ 
+# Computing skills / courses
+* Completed NYU Tandon Summer School program for Machine Learning (2 weeks full time), covering theory of 
+* Coursera courses:
+   - Introduction to Python Programming (UPenn speciality) 
+
+
+# Awards & Recognition
+## Advanced Placements Courses
    * 2 courses taken in Junior year (AP Statistics, AP Psychology)
    * Planning on 5 APs in senior year (Calculus, Physics, Comp Science, French, Chemistry)
 
+## Academic awards
+   * Consecutive honor roll (2019)
+   * Earth Science aptitude (2019)
+   * Japan Language Proficiency level 4 (2019)
+   * National Spanish Examination level 2 honor (2019)
+   
+## Athletic awards
+   * Multiple time scholar athlete
+   * 2x all-league cross country (2018, 2019)
+   * True grit award 2019
+   * Best newcomer award 2018
 
-Group Participation / Leadership
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Honor Societies
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Community Service
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Personal Growth
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Other Activities
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Recognition
-======
-* Currently signed in to 43 different slack teams
+## Recognitions
