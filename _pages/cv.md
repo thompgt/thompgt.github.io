@@ -54,9 +54,13 @@ Thomas Pequegnot
    - 2 hours per week/ 10 weeks per year
  
 # Computing skills / courses
-* Completed NYU Tandon Summer School program for Machine Learning (2 weeks full time), covering theory of 
+* Completed NYU Tandon School of Engineering Summer School program for Machine Learning (2 weeks full time). The program covered:
+   - Principles of AI and machine learning
+   - Hands on programming to solve machine learning problems (Python, scikit-learn, Tensorflow)
 * Coursera courses:
-   - Introduction to Python Programming (UPenn speciality) 
+   - Introduction to Python Programming (UPenn)
+   - Data analysis in Python (UPenn)
+   - Introduction to Java and Object Oriented programming (UPenn)
 
 
 # Awards & Recognition
