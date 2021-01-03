@@ -13,15 +13,15 @@ redirect_from:
 * French club
    * 3 year member (Trying to get an office position Senior Year)
    - 15 hours per year
-* Cross Country 
-   * Captain Junior year (And most likely Senior Year)
+* Cross Country
    * 4 year member
+   * Captain Junior year (and hopefully Senior Year)
    - 800+ hours
 * Winter Track
-   * 4 year member (Could be a captain my Junior and Senior Year)
+   * 4 year member
    - 300+ hours
 * Spring Track
-   * 4 year member (Could be a captain my Junior and Senior Year)
+   * 4 year member
    - 300+ hours
 * Habitat for Humanity
    * Member Sophomore year (and hopefully senior year if it returns)
@@ -76,5 +76,6 @@ redirect_from:
 Please refer to my [Athletic Resume]
    * Multiple time scholar athlete
    * 2x all-league cross country (2018, 2019)
+   * Captained cross country team to all-league title 2020
    * True grit award 2019
    * Best newcomer award 2018
