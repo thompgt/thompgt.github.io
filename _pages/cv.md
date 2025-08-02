@@ -1,11 +1,17 @@
 ---
-title: "Thomas Pequegnot Resume"
+layout: archive
+title: "Resume"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
 
 # Thomas Pequegnot
 
 **Data Science & Computer Science Student @ NYU**  
-📍 Tuckahoe, NY | 📞 914-548-3920 | ✉️ [tp2191@nyu.edu](mailto:tp2191@nyu.edu)  
+📍 New York, NY | 📞 914-548-3920 | ✉️ [tp2191@nyu.edu](tp2191@nyu.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/thomaspequegnot/)
 
 ---
@@ -15,8 +21,8 @@ title: "Thomas Pequegnot Resume"
 **New York University**  
 *Bachelor of Arts in Data Science and Computer Science*  
 Minor: Mathematics  
-**Expected Graduation**: May 2026  
-**Relevant Coursework**: Machine Learning, Algorithms, NLP, Causal Inference, Parallel Computing, Computer Systems
+**Expected Graduation**: May 2026
+**Relevant Coursework**: Machine Learning, Data Structures and Algorithms, Natural Language Processing, Causal Inference, Parallel Computing, Computer Systems, Deep Learning, Mathematics of Finance
 
 ---
 
