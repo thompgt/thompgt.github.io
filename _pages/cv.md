@@ -66,9 +66,9 @@ Minor: Mathematics
 
 ### Professor Ratings Analysis  
 **Nov 2024 – Dec 2024**  
--Performed various statistical tests including t-tests, Mann-Whitney U tests, and Levene’s tests to analyze gender bias, teaching experience, and the impact of online classes on professor ratings.
+- Performed various statistical tests including t-tests, Mann-Whitney U tests, and Levene’s tests to analyze gender bias, teaching experience, and the impact of online classes on professor ratings.
 - Built a logistic regression model to predict the likelihood of a professor receiving a ”pepper,” while addressing class imbalances through techniques such as under sampling and resampling. Evaluated model performance using metrics like AUC and ROC.
--Developed a Ridge regression model to predict average professor rating, achieving R2 of 0.8 and a RMSE of 0.372.
+- Developed a Ridge regression model to predict average professor rating, achieving R2 of 0.8 and a RMSE of 0.372.
 
 ### FIFA Player Performance Predictions  
 **Apr 2023**  
