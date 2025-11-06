@@ -8,5 +8,7 @@ You can reach me at:
 
 - Email: tp2191@nyu.edu
 - LinkedIn: https://www.linkedin.com/in/thomaspequegnot/
+- Phone: (914)-548-3920
+- GitHub: https://github.com/thompgt
 
-If you'd prefer, include a short note here and I'll get back to you.
+
